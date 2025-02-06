@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Learning and Development Management Application**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and Web Development**
 
 - 💬 Ask me about **HTML,CSS,JAVA,PYTHON,C,SQL,MYSQL,MONGODB,DJANGO**
 
