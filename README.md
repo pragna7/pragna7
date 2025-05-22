@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,AI,ML,DSA**
 
-- 💬 Ask me about **HTML.CSS,JAVA,PYTHON,C,SQL,MYSQL,MONGODB**
+- 💬 Ask me about **HTML,CSS,Bootstrap,JAVA,PYTHON,C,SQL,MYSQL,MONGODB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
